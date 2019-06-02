@@ -1,0 +1,21 @@
+{
+  "name": "todoList-expresss",
+  "version": "1.0.0",
+  "description": "完成了 html 页面的编写\r 完成 css 样式表",
+  "main": "app.js",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.18.3",
+    "express-art-template": "^1.0.1",
+    "mongoose": "^5.4.19",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
